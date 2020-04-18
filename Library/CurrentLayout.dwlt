@@ -111,7 +111,11 @@ MonoBehaviour:
   m_MinSize: {x: 815, y: 271}
   m_MaxSize: {x: 22010, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 26
+=======
+  controlID: 90
+>>>>>>> 4bc7971ccadcd4549fd9c6c05026254846e861aa
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,8 +425,13 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 4c090000
     m_LastClickedID: 0
+=======
+    m_SelectedIDs: 28eeffff
+    m_LastClickedID: -4568
+>>>>>>> 4bc7971ccadcd4549fd9c6c05026254846e861aa
     m_ExpandedIDs: 10fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -491,7 +500,7 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: "C:\\Users\\chock\u7206\u7259\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939
-    (3)\\UGUI"
+    (2)\\UGUI"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -557,18 +566,27 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 920c000082090000c60a0000403f00009c59fdffa66e00008c6e0000b22b00000e2f0000723d00003c300000ec3d00009c7305006c860900ae320000703a0000c23d00005a390000c4390000c83300002e3a0000404000007c2f000042400000da330000543300005a400000dc3a00006e2f00004c40000060410000ea40000012c30a0020c30a001a34000054410000503700002cf0e7ffa805e7ffb22f0000643b0000084400009039a8fff241000044420000362e0000203e0000820a000036300000aa360000b44b0000880a000000000000f6baf9ff368efaff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
+<<<<<<< HEAD
       m_Name: NewManger
       m_OriginalName: NewManger
+=======
+      m_Name: 
+      m_OriginalName: 
+>>>>>>> 4bc7971ccadcd4549fd9c6c05026254846e861aa
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
+<<<<<<< HEAD
       m_UserData: 2380
+=======
+      m_UserData: 0
+>>>>>>> 4bc7971ccadcd4549fd9c6c05026254846e861aa
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
