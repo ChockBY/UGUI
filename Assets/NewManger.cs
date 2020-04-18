@@ -8,7 +8,7 @@ public class NewManger : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         text = GetComponent<Text>();
-        text.text = "sdas获得一个";
+        text.text = "必须得完善一下";
 	}
 	
 	// Update is called once per frame
