@@ -108,10 +108,10 @@ MonoBehaviour:
     y: 30
     width: 1520
     height: 715
-  m_MinSize: {x: 813, y: 271}
-  m_MaxSize: {x: 22008, y: 10021}
+  m_MinSize: {x: 815, y: 271}
+  m_MaxSize: {x: 22010, y: 10021}
   vertical: 0
-  controlID: 86
+  controlID: 90
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,8 +130,8 @@ MonoBehaviour:
     y: 0
     width: 650
     height: 715
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 11}
@@ -157,8 +157,8 @@ MonoBehaviour:
     y: 0
     width: 359
     height: 715
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: eedeffff
-    m_LastClickedID: -8466
-    m_ExpandedIDs: eedeffff24e8fffffcedffff62f5ffff0000000044350000
+    m_SelectedIDs: 28eeffff
+    m_LastClickedID: -4568
+    m_ExpandedIDs: 10fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -484,21 +484,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: "C:\\Users\\chock\u7206\u7259\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939
-    (3)\\UGUI"
+    (2)\\UGUI"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b4300000
-    m_LastClickedID: 12468
-    m_ExpandedIDs: 0000000076300000f63000005c310000623200005e33000000ca9a3bffffff7f
+    m_SelectedIDs: 762d0000
+    m_LastClickedID: 11638
+    m_ExpandedIDs: 00000000762d0000022e0000702e00008c2f0000a630000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -526,7 +526,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000076300000f63000005c310000623200005e330000
+    m_ExpandedIDs: 00000000762d0000022e0000702e00008c2f0000a6300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,18 +557,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 920c000082090000c60a0000403f00009c59fdffa66e00008c6e0000b22b00000e2f0000723d00003c300000ec3d00009c7305006c860900ae320000703a0000c23d00005a390000c4390000c83300002e3a0000404000007c2f000042400000da330000543300005a400000dc3a00006e2f00004c40000060410000ea40000012c30a0020c30a001a34000054410000503700002cf0e7ffa805e7ffb22f0000643b0000084400009039a8fff241000044420000362e0000203e0000820a000036300000aa360000b44b0000880a000000000000f6baf9ff368efaff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: New
-      m_OriginalName: New
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 13538
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
