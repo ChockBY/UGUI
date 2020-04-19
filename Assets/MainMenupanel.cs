@@ -21,6 +21,5 @@ public class MainMenupanel : BasePanel {
     {
         UIPanelType panelType = (UIPanelType)System.Enum.Parse(typeof(UIPanelType), panelTypestring);
         UIManager.Instance.PushPanel(panelType);
-
     }
 }
