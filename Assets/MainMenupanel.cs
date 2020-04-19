@@ -21,7 +21,5 @@ public class MainMenupanel : BasePanel {
     {
         UIPanelType panelType = (UIPanelType)System.Enum.Parse(typeof(UIPanelType), panelTypestring);
         UIManager.Instance.PushPanel(panelType);
-        print("我修改的第一个地方");
-        print("这是我修改得第二次");
     }
 }
